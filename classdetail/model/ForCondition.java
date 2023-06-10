@@ -10,6 +10,7 @@ public class ForCondition {
     		System.out.println("abcd");
     	}
     	System.out.println("======");
+    	System.out.println(" ");
     }
 	}
 
